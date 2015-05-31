@@ -63,7 +63,7 @@ public class FunFactivity extends Activity {
         };
         showZachButton.setOnClickListener(zach);
 
-        // Toast.makeText(this, "This is a Toast Pop up message!", Toast.LENGTH_LONG).show();
-        Log.d(TAG, "We're logging from the onCreate() method");
+        Toast.makeText(this, "Please enjoy FunFactivity! It's fun!", Toast.LENGTH_LONG).show();
+        // Log.d(TAG, "We're logging from the onCreate() method");
     }
 }

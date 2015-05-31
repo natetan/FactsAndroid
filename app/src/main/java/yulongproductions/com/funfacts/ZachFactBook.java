@@ -7,7 +7,7 @@ import java.util.Random;
  */
 public class ZachFactBook {
 
-    public static final String NAME = "Tyler";
+    public static final String NAME = "Zach";
 
     public String[] mZachFacts = {
             NAME + " hit a fresh back heel last week and made all the ladies drool.",
